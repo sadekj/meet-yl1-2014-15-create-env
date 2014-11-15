@@ -2,7 +2,7 @@ echo 'This is a file to be ran once and it will be deleted once it finishes, any
 
 echo 'source /usr/loca/bin/virtualenvwrapper.sh' >> ~/.bashrc
 echo "echo 'Now type this: cd meet-yl1-2014-15-create-env'" >> ~/.bashrc
-echo "echo Then type this: ./create-env.sh'" >> ~/.bashrc
+echo "echo 'Then type this: ./create-env.sh'" >> ~/.bashrc
 
 chmod +x create-env.sh
 
