@@ -6,5 +6,5 @@ echo "echo 'Then type this: ./create-env.sh'" >> ~/.bashrc
 
 chmod +x create-env.sh
 
-echo 'Please close this and any other opened terminal, then open it again and type ./create-env.sh'
+echo 'Please close this and any other opened terminal, then open it again the terminal will tell you what to do from there'
 
