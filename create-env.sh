@@ -5,4 +5,4 @@ sed '$d' temp > ~/.bashrc
 
 mkvirtualenv --python=/usr/bin/python3.3 -r /etc/MEET/standard-python-env-requirements.txt yl1
 
-echo "echo 'Before starting working type workon yl1'" >> ~/.bashrc
+echo "echo 'Before starting working type this: workon yl1'" >> ~/.bashrc
